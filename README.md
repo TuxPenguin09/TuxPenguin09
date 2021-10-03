@@ -1,11 +1,14 @@
+# About Me
 ## Heyo, It's TuxPenguin09 (aliamanuba on hodots.)
 ### Just your average advanced web developer.
 I mostly work more on my web project [hodots.](https://github.com/leafstudiosDot/hodotsnet) and its [core behind it](https://github.com/leafstudiosDot/hodotsAPI).
-
+If you wish to see it's code, you can contact me anytime (except midnight since it's private). You can contribute my second version front-end for hodots. here at [hodots. Remagine Design](https://github.com/leafstudiosDot/hodotsnet-remagine).
+# Questions Answered
 ## Programming Languages I knew?
-Also I highly love JavaScript as my main programming language for developing sites. <br />
-I used to do C# from the past 2017 for my game development. <br />
-Learning C++ for my game engine from scratch. <br />
+- Also I highly love JavaScript as my main programming language for developing sites.
+- I used to do C# from the past 2017 for my game development.
+- Learning C++ for my game engine from scratch.
+
 <!--
 **TuxPenguin09/TuxPenguin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
