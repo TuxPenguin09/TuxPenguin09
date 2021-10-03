@@ -11,7 +11,8 @@ If you wish to see my work in progress site, [its here and its free to register!
 - Also I highly love JavaScript as my main programming language for developing sites.
 - I used to do C# from the past 2017 for my game development.
 - Learning C++ for my game engine from scratch.
-##
+## Ever heard of Cloud Computing?
+I have experienced working with Cloud Computing, with Amazon Web Services comes in handy, it also powers my site. Due to my financial issues to run my site properly, I can't learn it fast and it costs much more since it wasn't free for beginners.
 <!--
 **TuxPenguin09/TuxPenguin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
