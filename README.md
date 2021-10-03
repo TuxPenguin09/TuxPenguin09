@@ -1,5 +1,11 @@
-### Hi there 👋
+## Heyo, It's TuxPenguin09 (aliamanuba on hodots.)
+### Just your average advanced web developer.
+I mostly work more on my web project [hodots.](https://github.com/leafstudiosDot/hodotsnet) and its [core behind it](https://github.com/leafstudiosDot/hodotsAPI).
 
+## Programming Languages I knew?
+Also I highly love JavaScript as my main programming language for developing sites. <br />
+I used to do C# from the past 2017 for my game development. <br />
+Learning C++ for my game engine from scratch. <br />
 <!--
 **TuxPenguin09/TuxPenguin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
