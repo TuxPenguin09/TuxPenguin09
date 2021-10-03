@@ -6,6 +6,8 @@ If you wish to see it's code, you can contact me anytime (except midnight since 
 
 If you wish to see my work in progress site, [its here and its free to register!](https://hodots.com) 
 (Note: its still in beta, bugs may occur during the go. Due to its financial issues, My site only runs in public every weekends (London, UK Time))
+
+also i love watching this YouTube series I found out and its emojitown® (by emoji® Company GmbH and Wildbrain Spark)
 # Questions Answered
 ## Programming Languages I knew?
 - Also I highly love JavaScript as my main programming language for developing sites.
