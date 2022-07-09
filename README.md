@@ -5,11 +5,10 @@ I mostly work more on my web project [hodots.](https://github.com/leafstudiosDot
 If you wish to see it's code, you can contact me anytime (except midnight since it's private).
 You can contribute my second version front-end for hodots. here at [hodots. Remagine Design](https://github.com/leafstudiosDot/hodotsnet-remagine).
 You can also contribute to my docs site for Developers for developing an application using hodots. Services at [hodots. Documentations for Developers](https://github.com/leafstudiosDot/hodots-docs).
+How about my multipurpose [code editor](https://github.com/leafstudiosDot/incogine-editor) will ya.
 
 If you wish to see my work in progress site, [its here and its free to register!](https://hodots.com) 
 (Note: its still in beta, bugs may occur during the site ongoing. Due to its financial issues, My site only runs in public every other weekends (London, UK Time))
-
-also i love watching this YouTube series I found out and its emojitown® (by emoji® Company GmbH and Wildbrain Spark)
 # Questions Answered
 ## Programming Languages I knew?
 - Also I highly love JavaScript as my main programming language which is what I use for developing sites, Backend Server, Socket Server, etc.
