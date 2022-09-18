@@ -3,7 +3,6 @@
 ### Just your average advanced web developer.
 I mostly work more on my web project [hodots.](https://github.com/leafstudiosDot/hodotsnet) and its core behind it.
 If you wish to see it's code, you can contact me anytime (except midnight since it's private).
-You can contribute my second version front-end for hodots. here at [hodots. Remagine Design](https://github.com/leafstudiosDot/hodotsnet-remagine).
 You can also contribute to my docs site for Developers for developing an application using hodots. Services at [hodots. Documentations for Developers](https://github.com/leafstudiosDot/hodots-docs).
 How about my multipurpose [code editor](https://github.com/leafstudiosDot/incogine-editor) will ya.
 
