@@ -2,11 +2,14 @@
 ## Heyo, It's TuxPenguin09 (aliamanuba on any site) and just my true name is Moritz
 ### Just your average advanced web developer.
 I mostly work more on my portfolio project and its core behind it.
+
 You can also contribute to my portfolio site documentation for developers for developing an application in my portfolio site, [hodots. Documentations for Developers](https://github.com/leafstudiosDot/hodots-docs).
 How about my multipurpose [code editor](https://github.com/leafstudiosDot/incogine-editor).
 
-If you wish to see my portfolio site which I don't personally promote to anyone, [its here and its free to register!](https://hodots.com) 
+If you wish to see my portfolio site which I don't personally promote to anyone, [its here and its free to register!](https://hodots.com)
 (Note: its still in beta, bugs may occur during the site ongoing.)
+
+I have made another application or a portfolio site coming 2024.
 # Questions Answered
 ## Programming Languages I knew?
 - Also I highly love JavaScript as my main programming language and Python as second which is what I use for Developing Sites, Backend Server, Socket Server, Hosting, etc.
