@@ -9,6 +9,8 @@ How about my multipurpose [code editor](https://github.com/leafstudiosDot/incogi
 If you wish to see my portfolio site which I don't personally promote to anyone, [its here and its free to register!](https://hodots.com)
 (Note: its still in beta, bugs may occur during the site ongoing.)
 
+I am really proud of this being launched worldwide since I was 16 (back in Feb, 2021), It's also the right time for me to learn much about how hosting a website and most of the cybersecurity and vulnerability check and testing.
+
 I have made another application or a portfolio site coming 2024.
 # Questions Answered
 ## Programming Languages I knew?
