@@ -1,17 +1,17 @@
-# About Me
-## Heyo, It's TuxPenguin09 (aliamanuba on any site) and just my true name is Moritz
+# Personally About Me
+## TuxPenguin09 on some old sites and aliamanuba on any site, my real name is モリツ
 ### Just your average advanced full-stack developer.
 I mostly work more on my portfolio project and its core behind it.
 
 You can also contribute to my portfolio site documentation for developers for developing an application in my portfolio site, [hodots. Documentations for Developers](https://github.com/leafstudiosDot/hodots-docs).
-How about my multipurpose [code editor](https://github.com/leafstudiosDot/incogine-editor), or my [self-hosted chatroom's server](https://github.com/leafstudiosDot/decensha) it's clients are going open-source soon, also my work in progress [office/learning management system](https://github.com/leafstudiosDot/roomital).
+How about [my soon to be a game engine](https://github.com/leafstudiosDot/incogine) and it's [now unmaintained multipurpose code editor](https://github.com/leafstudiosDot/incogine-editor), or my [self-hosted chatroom's server](https://github.com/leafstudiosDot/decensha) it's clients are going open-source soon, also my work in progress [office/learning management system](https://github.com/leafstudiosDot/roomital), the other one I am working on today such as Project S will be out soon, not planning on open source them except for it's [locale which can be found here](https://github.com/leafstudiosDot/statolumn-locale).
 
 If you wish to see my portfolio site which I don't personally promote to anyone, [its here and its free to register!](https://hodots.com)
 (Note: its still in beta, bugs may occur during the site ongoing.)
 
 I am really proud of this being launched worldwide since I was 16 (back in Feb, 2021), It's also the right time for me to learn much about how hosting a website and most of the cybersecurity and vulnerability check and testing everything in production.
 
-I have made another application or a portfolio site coming 2024.
+I have made another application or a portfolio site called Project S coming 2024.
 # Questions Answered
 ## Programming Languages I knew?
 - Also I highly love JavaScript as my main programming language and Python as second which is what I use for Developing Sites, Backend Server, Socket Server, Hosting, etc.
@@ -24,6 +24,7 @@ I have made another application or a portfolio site coming 2024.
 - Python, PostgreSQL, Next.js, React
 - Ruby on Rails, React (learning)
 - Rust, Vite, React (learning)
+- Cassandra as Database (formerly due to limits of sorting data)
 
 When it comes to frontend web development, I am always with React. It depends on backend web development though, using the right tool for the job.
 ## Ever heard of Cloud Computing?
@@ -37,6 +38,7 @@ Yes, I've been working on my portfolio site from 2017 to now all by myself, I am
 - Simple Motion graphics, A low budget motion graphics can do the trick.
 - Simple Art and Animation, I'm not a smooth animator and an artist, just simple drawing since I don't have much time for arts.
 - Electronics, I am into making prototypes, just a bread board
+- Learning Japanese, こんにちわ、「アリアマヌバ」です。, just above N5 yet, 75% Hiragana, 20% Katakana, 5% Kanji
 - Cooking, I assume this is a joke but seriously, I just like cooking for my source of energy.
 <!--
 **TuxPenguin09/TuxPenguin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
