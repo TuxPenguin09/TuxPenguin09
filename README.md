@@ -4,14 +4,13 @@
 I mostly work more on my portfolio project and its core behind it.
 
 You can also contribute to my portfolio site documentation for developers for developing an application in my portfolio site, [hodots. Documentations for Developers](https://github.com/leafstudiosDot/hodots-docs).
-How about [my soon to be a game engine](https://github.com/leafstudiosDot/incogine) and it's [now unmaintained multipurpose code editor](https://github.com/leafstudiosDot/incogine-editor), or my [self-hosted chatroom's server](https://github.com/leafstudiosDot/decensha) it's clients are going open-source soon, also my work in progress [office/learning management system](https://github.com/leafstudiosDot/roomital), the other one I am working on today such as Project S will be out soon, not planning on open source them except for it's [locale which can be found here](https://github.com/leafstudiosDot/statolumn-locale).
+How about [my soon to be a game engine](https://github.com/leafstudiosDot/incogine) and it's [now unmaintained multipurpose code editor](https://github.com/leafstudiosDot/incogine-editor), or my [self-hosted chatroom's server](https://github.com/leafstudiosDot/decensha) it's clients are going open-source soon, also my work in progress [office/learning management system](https://github.com/leafstudiosDot/roomital), the other one I am working on today such as [Statolumn](https://statolumn.com) (unlike hodots., Statolumn requires an account to interact), not planning on open source them except for it's [locale which can be found here](https://github.com/leafstudiosDot/statolumn-locale).
 
-If you wish to see my portfolio site which I don't personally promote to anyone, [its here and its free to register!](https://hodots.com)
+If you wish to see my portfolio site which I don't personally promote to anyone, [its here and its free to register!](https://hodots.com), also [another one of my portfolio site](https://statolumn.com)
 (Note: its still in beta, bugs may occur during the site ongoing.)
 
-I am really proud of this being launched worldwide since I was 16 (back in Feb, 2021), It's also the right time for me to learn much about how hosting a website and most of the cybersecurity and vulnerability check and testing everything in production.
+I am really proud of this being launched worldwide since I was 16 (back in Feb, 2021), It's also the right time for me to learn much about how hosting a website and most of the cybersecurity and vulnerability check and testing everything in production. Statolumn launched back in Aug. 2024 before I turned 20 in September, which makes it the last among 2 of my portfolio projects and sites as a teenager.
 
-I have made another application or a portfolio site called Project S coming 2024.
 # Questions Answered
 ## Programming Languages I knew?
 - Also I highly love JavaScript as my main programming language and Python as second which is what I use for Developing Sites, Backend Server, Socket Server, Hosting, etc.
@@ -30,7 +29,7 @@ When it comes to frontend web development, I am always with React. It depends on
 ## Ever heard of Cloud Computing?
 I have experienced working with Cloud Computing, with Amazon Web Services comes in handy, it also powers my site. Due to my financial issues to run my site properly, I can't learn it fast and it costs much more since it wasn't free for beginners. Firebase on the other hand keeps on having a bandwidth issues.
 ## Are you available for hire in jobs?
-Freelancer? Yep, I am a freelancer, open to some jobs for it right now, message me for any requirements. Thanks!
+Freelancer? Yep, I am a freelancer, open to some jobs for it right now, message me for hiring and i'll let you know what I can do for you, not currently working for free. Thanks!
 ## Are you a solo developer?
 Yes, I've been working on my portfolio site from 2017 to now all by myself, I am proud to see it can be seen worldwide and many people are exploring on my site.
 ## Besides coding, what have you learned?
