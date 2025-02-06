@@ -37,7 +37,7 @@ Yes, I've been working on my portfolio site from 2017 to now all by myself, I am
 - Simple Motion graphics, A low budget motion graphics can do the trick.
 - Simple Art and Animation, I'm not a smooth animator and an artist, just simple drawing since I don't have much time for arts.
 - Electronics, I am into making prototypes, just a bread board
-- Learning Japanese, こんにちわ、「アリアマヌバ」です。, just above N5 yet, 75% Hiragana, 20% Katakana, 5% Kanji
+- Learning Japanese, こんにちわ、「アリアマヌバ」です。, just above N5 yet, 90% Hiragana, 60% Katakana, 5% Kanji
 - Cooking, I assume this is a joke but seriously, I just like cooking for my source of energy.
 <!--
 **TuxPenguin09/TuxPenguin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
