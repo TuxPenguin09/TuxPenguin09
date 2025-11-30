@@ -24,6 +24,11 @@ I am really proud of this being launched worldwide since I was 16 (back in Feb, 
 - Ruby on Rails, React (learning)
 - Rust, Vite, React (learning)
 - Cassandra as Database (formerly due to limits of sorting data)
+## Operating System I used?
+- Linux, "I use Arch btw" formerly into Debian/Ubuntu but I am mostly into Arch Linux as my personal use for developing is really my thing.
+- Windows for game development, gaming, school use, etc.
+- macOS when of course, for programming and developing things for Apple that most users we all know used of, let's say for iOS, iPadOS, macOS Apps, watchOS, tvOS, etc.
+- FreeBSD? maybe my upcoming home server will power everything.
 
 When it comes to frontend web development, I am always with React. It depends on backend web development though, using the right tool for the job.
 ## Ever heard of Cloud Computing?
