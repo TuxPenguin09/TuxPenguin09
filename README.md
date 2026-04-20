@@ -15,6 +15,7 @@ I am really proud of this being launched worldwide since I was 16 (back in Feb, 
 ## Programming Languages I knew?
 - Also I highly love JavaScript as my main programming language and Python as second which is what I use for Developing Sites, Backend Server, Socket Server, Hosting, etc.
 - After learning how to use Docker with me playing around with, it became easier for me to just transfer my source code and work around quickly without having to install everything in my host computer.
+- Learning PyTorch or something mostly for AI, tried to do but I rely on HuggingFace datasets while doing my own model from scratch.
 - I used to do C# from the past 2017 for my game development using Unity 3D, though I stopped learning Unity after their announcement back in 2023.
 - Still Learning C++ for my game engine from scratch and it was pain at first just for Math and everything.
 - I'm a former PHP user, I used to develop most of the big site with PHP, Its MySQL databases got corrupted as moving local machines then moved on and switched to Node.js but unfortunately, I lost most of its PHP files to be published on GitHub as a Git repository since sticking with Modern version of my portfolio site.
